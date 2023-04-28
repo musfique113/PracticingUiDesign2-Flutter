@@ -11,6 +11,5 @@ The Flutter Portfolio Dashboard implements the following features:
 
 ## Screenshots
 
-![Home Screen](screenshots/home.png "Home Screen")
+![Home Screen](https://user-images.githubusercontent.com/53111065/235149772-5357dd9a-92af-40dc-b63a-ce69a0aa23b3.png)
 
-![Project Details Screen](screenshots/project_details.png "Project Details Screen")

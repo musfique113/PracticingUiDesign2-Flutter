@@ -34,8 +34,12 @@ class Home extends StatelessWidget {
                       style: TextStyle(fontSize: 23, fontFamily: "fonts/Poppins-Bold.ttf",),
                     ),
                     Text(
-                      "Designation",
-                      style: TextStyle(fontSize: 18),
+                      "Computer Science Undergraduate",
+                      style: TextStyle(fontSize: 15),
+                    ),
+                    Text(
+                      "Java | Python | Dart",
+                      style: TextStyle(fontSize: 14),
                     )
                   ],
                 )
@@ -58,7 +62,7 @@ class Home extends StatelessWidget {
                         width: 17,
                       ),
                       Text(
-                        "School Name",
+                        "Green University of Bangladesh",
                         style: TextStyle(fontSize: 18),
                       )
                     ],
@@ -69,14 +73,14 @@ class Home extends StatelessWidget {
                   Row(
                     children: <Widget>[
                       Icon(
-                        Icons.computer_rounded,
+                        Icons.fmd_good_outlined,
                         size: 35,
                       ),
                       SizedBox(
                         width: 17,
                       ),
                       Text(
-                        "School Name",
+                        "Mirpur, Dhaka",
                         style: TextStyle(fontSize: 18),
                       )
                     ],
@@ -87,14 +91,14 @@ class Home extends StatelessWidget {
                   Row(
                     children: <Widget>[
                       Icon(
-                        Icons.location_city_rounded,
+                        Icons.link,
                         size: 35,
                       ),
                       SizedBox(
                         width: 17,
                       ),
                       Text(
-                        "School Name",
+                        "github.com/musfique113",
                         style: TextStyle(fontSize: 18),
                       )
                     ],
@@ -112,7 +116,7 @@ class Home extends StatelessWidget {
                         width: 17,
                       ),
                       Text(
-                        "School Name",
+                        "musfique113@gmail.com",
                         style: TextStyle(fontSize: 18),
                       )
                     ],
@@ -130,7 +134,7 @@ class Home extends StatelessWidget {
                         width: 17,
                       ),
                       Text(
-                        "School Name",
+                        "0123456789",
                         style: TextStyle(fontSize: 18),
                       )
                     ],
@@ -138,14 +142,13 @@ class Home extends StatelessWidget {
                 ],
               ),
             ),
-            SizedBox(height: 50,),
+            SizedBox(height: 15,),
             Padding(
-              padding: const EdgeInsets.all(10),
-              child: Text("About Me: I bring to the table.Here you will find a collection of my recent work and my passion for creating beautiful, functional digital solutions.  ",
+              padding: const EdgeInsets.only(right: 15),
+              child: Text("As a Computer Science undergraduate student, I am deeply passionate about building robust mobile applications using Flutter and Dart. With hands-on experience in Firebase and RESTful APIs integration, I am committed to developing and deploying high-quality mobile applications that deliver exceptional user experiences. I have a strong background in Java, Python, and Dart programming languages, and I am constantly expanding my knowledge in Data Analytics, Machine Learning, and Visualization tools, including Excel. My expertise in Flutter and Dart allows me to create visually appealing and functionally robust mobile applications for various platforms. ",
+              textAlign: TextAlign.justify,
                 style: TextStyle(fontSize: 18),),
             ),
-            SizedBox(height: 50,),
-            Text("Created by musfique")
           ],
         ),
       ),
