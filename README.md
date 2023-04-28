@@ -1,16 +1,16 @@
-# portfolip_app
+# Portfolio Dashboard
 
-A new Flutter project.
+This is a Flutter project that implements a portfolio dashboard that showcases your personal projects and skills. The dashboard is built using various Flutter widgets and features such as layout creation, SizedBox, Icons, TextStyle, Axis Alignment, Adding Image, Custom Fonts, and Dark Theme UI.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+The Flutter Portfolio Dashboard implements the following features:
 
-A few resources to get you started if this is your first Flutter project:
+- A home screen with a header, a profile picture, and a list of projects and skills.
+- A project details screen that displays information about a selected project, including a header image, a title, a description, and a list of features.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Home Screen](screenshots/home.png "Home Screen")
+
+![Project Details Screen](screenshots/project_details.png "Project Details Screen")
