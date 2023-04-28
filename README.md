@@ -1,6 +1,6 @@
 # Portfolio Dashboard
 
-This is a Flutter project that implements a portfolio dashboard that showcases your personal projects and skills. The dashboard is built using various Flutter widgets and features such as layout creation, SizedBox, Icons, TextStyle, Axis Alignment, Adding Image, Custom Fonts, and Dark Theme UI.
+This is a Flutter project that implements a portfolio dashboard that showcases personal projects and skills. The dashboard is built using various Flutter widgets and features such as layout creation, SizedBox, Icons, TextStyle, Axis Alignment, Adding Image, Custom Fonts, and Dark Theme UI.
 
 ## Features
 
