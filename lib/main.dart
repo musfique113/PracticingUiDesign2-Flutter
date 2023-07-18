@@ -51,9 +51,9 @@ class Home extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.only(left: 20),
               child: Column(
-                children: <Widget>[
+                children:  [
                   Row(
-                    children: <Widget>[
+                    children:  [
                       Icon(
                         Icons.school,
                         size: 35,
@@ -89,7 +89,7 @@ class Home extends StatelessWidget {
                     height: 13,
                   ),
                   Row(
-                    children: <Widget>[
+                    children:  [
                       Icon(
                         Icons.link,
                         size: 35,
@@ -107,7 +107,7 @@ class Home extends StatelessWidget {
                     height: 13,
                   ),
                   Row(
-                    children: <Widget>[
+                    children:  [
                       Icon(
                         Icons.email_rounded,
                         size: 35,
@@ -125,7 +125,7 @@ class Home extends StatelessWidget {
                     height: 13,
                   ),
                   Row(
-                    children: <Widget>[
+                    children:  [
                       Icon(
                         Icons.phone,
                         size: 35,
