@@ -16,9 +16,9 @@ class Home extends StatelessWidget {
       body: Padding(
         padding: const EdgeInsets.only(top: 80, left: 20),
         child: Column(
-          children: <Widget>[
+          children: [
             Row(
-              children: <Widget>[
+              children: [
                 CircleAvatar(
                   radius: 40,
                   backgroundImage: AssetImage("images/profienew.jpg"),
@@ -28,7 +28,7 @@ class Home extends StatelessWidget {
                 ),
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
-                  children: <Widget>[
+                  children: <[
                     Text(
                       "Mahfujur R. Musfique",
                       style: TextStyle(fontSize: 23, fontFamily: "fonts/Poppins-Bold.ttf",),
@@ -71,7 +71,7 @@ class Home extends StatelessWidget {
                     height: 13,
                   ),
                   Row(
-                    children: <Widget>[
+                    children: [
                       Icon(
                         Icons.fmd_good_outlined,
                         size: 35,
