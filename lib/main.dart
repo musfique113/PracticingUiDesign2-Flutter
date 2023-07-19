@@ -134,7 +134,7 @@ class Home extends StatelessWidget {
                         width: 17,
                       ),
                       Text(
-                        "0123456789",
+                        "012 443456789",
                         style: TextStyle(fontSize: 18),
                       )
                     ],
