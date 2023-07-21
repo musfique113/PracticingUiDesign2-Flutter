@@ -28,7 +28,7 @@ class Home extends StatelessWidget {
                 ),
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
-                  children: <[
+                  children: [
                     Text(
                       "Mahfujur R. Musfique",
                       style: TextStyle(fontSize: 23, fontFamily: "fonts/Poppins-Bold.ttf",),
